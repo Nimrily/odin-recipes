@@ -1,0 +1,32 @@
+.title {
+    width: 400px;
+    height: 50px;
+    margin: 60px auto;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 48px;
+    display: inline-box;
+    text-align: center;
+}
+.mainli {
+    border: 2px solid rgba(128, 0, 128, 0.387);
+    display: inline-box;
+    width: 400px;
+    height: 40px;
+    text-align: center;
+    padding: 30px 10px;
+    margin: 15px auto;
+    font-size: larger;
+    color: black;
+    background-color: rgb(12, 97, 97);
+}
+
+ul {
+    list-style-type: none;
+}
+a:visted {
+    color: black;
+}
+a:link {
+    color: black;
+}
