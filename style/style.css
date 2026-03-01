@@ -24,9 +24,7 @@
 ul {
     list-style-type: none;
 }
-a:visted {
+a {
     color: black;
-}
-a:link {
-    color: black;
+    text-decoration: none;
 }
