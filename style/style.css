@@ -20,8 +20,10 @@
     color: black;
     background-color: rgb(12, 97, 97);
 }
-a {
+.maina{
     color: black;
+}
+a {
     text-decoration: none;
 }
 #smallti {
@@ -36,16 +38,19 @@ ul {
 
 img {
     display: block;
-    border: 4px solid red;
+    border: 4px solid rgb(164, 156, 197);
     margin: 40px auto;
 }
 .homeli{
     margin: 10px auto;
+    color: purple;
+    font-size: 18px;
 }
 .des {
     display: inline-box;
     width: 500px;
-    height: 100px;
+    height: 200;
     margin: 15px auto;
     font-size: 20px;
+    padding: 10px 15px;
 }
