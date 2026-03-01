@@ -1,10 +1,10 @@
 .title {
-    width: 400px;
+    width: 500px;
     height: 50px;
     margin: 60px auto;
     padding: 5px;
     font-weight: bold;
-    font-size: 48px;
+    font-size: 40px;
     display: inline-box;
     text-align: center;
 }
@@ -20,11 +20,32 @@
     color: black;
     background-color: rgb(12, 97, 97);
 }
-
-ul {
-    list-style-type: none;
-}
 a {
     color: black;
     text-decoration: none;
+}
+#smallti {
+    font-size: 28px;
+}
+body{
+    background-color: rgba(110, 103, 145, 0.984);
+}
+ul {
+    list-style-type: none;
+}
+
+img {
+    display: block;
+    border: 4px solid red;
+    margin: 40px auto;
+}
+.homeli{
+    margin: 10px auto;
+}
+.des {
+    display: inline-box;
+    width: 500px;
+    height: 100px;
+    margin: 15px auto;
+    font-size: 20px;
 }
